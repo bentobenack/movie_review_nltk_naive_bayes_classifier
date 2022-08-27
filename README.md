@@ -1,7 +1,7 @@
 # NLTK Movie Reviews - Naive Bayes Classifier
  Warm up: I train a classifier using nltk corpus 'movie_reviews' and the Statistic Classifier 'Naive Bayes'
 
-# Requiriments
+# Requirements
 
 * Python
 * NLTK
